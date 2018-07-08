@@ -1,0 +1,189 @@
+.classContainer, .sectionContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 15px;
+}
+  
+#profName, #className  {
+    width: calc((10vmin) + (10vmax));
+    height: calc((0.8vmin) + (1vmax));
+    margin-top: 2px;
+}
+    
+#profMenu, #classMenu {
+    position: absolute;
+    width: calc((2vmin) + (2vmax));
+    margin-top: 2px;
+}  
+    
+    
+.classContainer li, .sectionContainer li,
+ .classContainer div, .sectionContainer div,
+#UIBox, #UIBox input, #UIBox select {
+/*font-size: medium;*/
+font-size: calc((0.6vmin) + (1vmax));
+  list-style-type: none;
+}
+
+.classContainer{
+  padding-top: 60px;
+}
+
+.classContainer li:nth-of-type(1) {
+    color: white;
+/*.classContainer div:nth-of-type(1) {*/
+  list-style-type: none;
+  background-color: rgb(115,130,181);
+  width: calc(75%);
+    display: flex;
+  justify-content: center;
+    align-items: center;
+}
+    
+/*https://stackoverflow.com/questions/41062123/css-font-size-responsive-relative-to-device-resolution*/
+.classContainer li:nth-of-type(1) {
+font-size: calc((2vmin) + (1vmax));
+/*  font-size: 24px;*/
+  height: calc((10vmin) + (1vmax));;
+}
+    
+.classContainer li:nth-of-type(2) {
+/*.classContainer div:nth-of-type(2) {*/
+  list-style-type: none;
+  background-color: skyblue;
+  width: calc(15%);
+    display: flex;
+  justify-content: center;
+    align-items: center;
+}
+.classContainer li:nth-of-type(3) {
+/*.classContainer div:nth-of-type(3) {*/
+  list-style-type: none;
+  background-color: lightgreen;
+  width: calc(10%);
+    display: flex;
+  justify-content: center;
+    align-items: center;
+}
+.classContainer li:nth-of-type(4),
+.classContainer div:nth-of-type(1) {
+  list-style-type: none;
+  background-color: rgb(218,226,238);
+  width: calc(100%);
+}
+    
+.classContainer div:nth-of-type(4), .classContainer div:nth-of-type(5){
+color: rgb(74,89,140);
+}
+
+.classContainer li:nth-of-type(4), .classContainer li:nth-of-type(5), .classContainer li:nth-of-type(6){
+border-bottom: 1px solid rgb(123,151,192);
+}
+    
+.classContainer li:nth-of-type(5),
+.classContainer div:nth-of-type(2) {
+  list-style-type: none;
+  background-color: rgb(218,226,238);
+  width: calc(100%);
+}
+.classContainer li:nth-of-type(6),
+.classContainer div:nth-of-type(3) {
+  list-style-type: none;
+  background-color: rgb(218,226,238);
+  width: calc(100%);
+}
+.classContainer div {
+  color: rgb(74,89,140);
+}
+
+.sectionContainer div {
+  background-color: rgb(218,226,238);
+  color: rgb(74,89,140);
+    border-top: 1px solid rgb(123,151,192);
+    border-bottom: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(n+8) {
+    border-bottom: 1px solid rgb(123,151,192);
+}
+
+.sectionContainer li:nth-of-type(1),
+.sectionContainer div:nth-of-type(1) {
+  list-style-type: none;
+/*  background-color: red;*/
+  width: calc(10% - 1px);
+}
+.sectionContainer li:nth-of-type(2),
+.sectionContainer div:nth-of-type(2) {
+  list-style-type: none;
+/*  background-color: orange;*/
+  width: calc(10% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(3),
+.sectionContainer div:nth-of-type(3) {
+  list-style-type: none;
+/*  background-color: yellow;*/
+  width: calc(15% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(4),
+.sectionContainer div:nth-of-type(4) {
+  list-style-type: none;
+/*  background-color: lightgreen;*/
+  width: calc(20% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(5),
+.sectionContainer div:nth-of-type(5) {
+  list-style-type: none;
+/*  background-color: green;*/
+  width: calc(15% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(6),
+.sectionContainer div:nth-of-type(6) {
+  list-style-type: none;
+/*  background-color: blue;*/
+  width: calc(15% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(7),
+.sectionContainer div:nth-of-type(7) {
+  list-style-type: none;
+/*  background-color: lightblue;*/
+  width: calc(15% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(8),
+.sectionContainer div:nth-of-type(8) {
+  list-style-type: none;
+/*  background-color: gray;*/
+  width: calc(10% - 1px);
+}
+    
+.sectionContainer li:nth-of-type(8) {
+  background-color: rgb(115,130,181);
+    color: white;
+    }
+    
+.sectionContainer li:nth-of-type(9),
+.sectionContainer div:nth-of-type(9) {
+  list-style-type: none;
+/*  background-color: gray;*/
+  width: calc(25% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(10),
+.sectionContainer div:nth-of-type(10) {
+  list-style-type: none;
+/*  background-color: lightgray;*/
+  width: calc(35% - 1px);
+    border-left: 1px solid rgb(123,151,192);
+}
+.sectionContainer li:nth-of-type(11),
+.sectionContainer div:nth-of-type(11) {
+  list-style-type: none;
+/*  background-color: gold;*/
+    border-left: 1px solid rgb(123,151,192);
+  width: calc(30% - 1px);
+}

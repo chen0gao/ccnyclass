@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="initial-scale=1.0, width=device-width, user-scalable=yes" />
+
+<title>Classes Search Form</title>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<script src="script.js"></script>
+</head>
+
+<body>
+<div id="UIBox">
+Professor name: <input type="text" id="profName" name="FirstName" value="">
+    <select id="profMenu" onchange="changeText(this, 'profName')"></select><br>
+Class name: <input type="text" id="className" name="FirstName" value="">
+    <select id="classMenu"  onchange="changeText(this, 'className')"></select><br>
+Semester: <input type="checkbox" id="semester1" name="Fall 2018" checked>Fall 2018
+    <input type="checkbox" id="semester2" name="Summer 2018">Summer 2018
+    <input type="checkbox" id="semester3" name="Spring 2018" checked>Spring 2018 <br>
+Degree: <input type="checkbox" id="career1" name="Undergraduate" checked>Undergraduate
+    <input type="checkbox" id="career2" name="Graduate">Graduate<br>
+  <input type="submit" id="searchBox" value="Submit" onclick="startSearch()"><br>
+    <p style="color: red">Last Modified Date: July 5, 2018</p>
+</div>
+
+</body>
+</html>
