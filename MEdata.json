@@ -1964,8 +1964,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"8",
-                      "AvailableSeat":"22"
+                      "Rerollment":"13",
+                      "AvailableSeat":"17"
                     }]                
     },
     { 
@@ -1974,19 +1974,19 @@
       "Unit":"3 units", 
       "Description":"Conservation equations for mass, momentum and energy.  Conduction with energy generation, transpiration cooling, phase transformation, and ablation.  Boundary layer approximations. Laminar heat transfer from flat plates and tubes. Heat transfer in free convection. Turbulent flow heat transfer. Boiling and condensation.   Heat exchanger theory. Not open to students who have completed ME I3700.", 
       "Requirement":"PRE: (ME 43300 OR ChE 34200) AND ENGR I1100", 
-      "Textbook":"(Status: Recommended) [ISBN: 9783642012662] Heat Conduction, Author: Latif M. Jiji, Publisher: Springer Verlag, Edition: 3, Year Published: 2009, Price: 67.38 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Recommended) [ISBN: 9783642012662] Heat Conduction, Author: Latif M. Jiji, Publisher: Springer Verlag, Edition: 3, Year Published: 2009, Price: 27.14 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14296",
                       "Section":"5GH-LEC",
                       "Schedule":"Fr 5:00PM - 7:45PM",
-                      "Room":"Shepard S-308",
+                      "Room":"Steinman 207",
                       "Instructor":"Jorge Gonzalez-cruz",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"4",
-                      "AvailableSeat":"26"
+                      "Rerollment":"7",
+                      "AvailableSeat":"23"
                     }]                
     },
     { 
@@ -1995,19 +1995,19 @@
       "Unit":"3 units", 
       "Description":"Project-based course on the design of mechatronic devices to address needs identified by hospital-based clinicians and industry. Students work in teams to develop a mechatronic prototype. The lectures will cover the design of medical devices and robotics including sensors, actuators, and robots. The students will communicate with customers to understand design needs, then conduct study on prior art, intellectual property, due diligence, and idea conceptualization. Students will present ideas in class and to a broad audience from local industry. Students will also write a publication-quality final report, which they will be encouraged for publication submission. Students are required to have previous knowledge of ME 31100 or equivalent, ME 37100 or ME I6500 or equivalent and ME 41100 or equivalent.", 
       "Requirement":"N/A", 
-      "Textbook":"(Status: Required) [ISBN: 9781107087354] Biodesign : The Process of Innovating Medical Tech, Author: Yock, Paul G., Zenios, Stefano, Publisher: Cambridge University Press, Edition: 2, Year Published: 2015, Price: 37.50 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9781107087354] Biodesign : The Process of Innovating Medical Tech, Author: Yock, Paul G., Zenios, Stefano, Publisher: Cambridge University Press, Edition: 2, Year Published: 2015, Price: 56.47 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"66130",
                       "Section":"4ST-LEC",
                       "Schedule":"Th 5:00PM - 7:50PM",
-                      "Room":"NAC 4/207",
+                      "Room":"Marshak 410",
                       "Instructor":"Hao Su",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"4",
-                      "Rerollment":"0",
-                      "AvailableSeat":"4"
+                      "Rerollment":"2",
+                      "AvailableSeat":"2"
                     }]                
     },
     { 
@@ -2027,8 +2027,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"15",
-                      "Rerollment":"1",
-                      "AvailableSeat":"14"
+                      "Rerollment":"10",
+                      "AvailableSeat":"5"
                     }]                
     },
     { 
@@ -2037,7 +2037,7 @@
       "Unit":"3 units", 
       "Description":"This course presents the fundamentals of fluid mechanics with a balance between, physics, mathematics and applications. It includes application of conservation laws in control volumes with moving boundaries in tensor notation, high medium and low Reynolds number flows, momentum integrals in boundary layers, jets and wakes. Also described adiabatic frictional flows, flows with heat addition and energy related issues. Final project", 
       "Requirement":"PRE: ME 35600", 
-      "Textbook":"(Status: Required) [ISBN: 9781118013434] Incompressible Flow, Publisher: Wiley & Sons, Incorporated, Jo, Edition: 4, Year Published: 0000, Price: 112.79 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9781118013434] Incompressible Flow, Publisher: Wiley & Sons, Incorporated, Jo, Edition: 4, Year Published: 0000, Price: 112.52 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14298",
@@ -2048,8 +2048,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"10",
-                      "AvailableSeat":"20"
+                      "Rerollment":"21",
+                      "AvailableSeat":"9"
                     }]                
     },
     { 
@@ -2058,19 +2058,19 @@
       "Unit":"3 units", 
       "Description":"Classification of modern turbomachines. Concepts in applied thermo-fluid mechanics. Similarity in design; wind tunnels and cascade of aerofoils; loss mechanisms; radial equilibrium theory; performance prediction; erosion and high temperature problems; instrumentation.", 
       "Requirement":"PRE: ME 33000 AND ME 35600", 
-      "Textbook":"(Status: Required) [ISBN: 9780124159549] Fluid Mechanics and Thermodynamics of Turbomachine, Author: Dixon, S. Larry, Hall, Cesare, Publisher: Elsevier Science & Technology, Edition: 7, Year Published: 2013, Price: 48.78 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780124159549] Fluid Mechanics and Thermodynamics of Turbomachine, Author: Dixon, S. Larry, Hall, Cesare, Publisher: Elsevier Science & Technology, Edition: 7, Year Published: 2013, Price: 32.76 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14299",
                       "Section":"1GH-LEC",
                       "Schedule":"Mo 5:00PM - 7:45PM",
-                      "Room":"Marshak 506",
+                      "Room":"Marshak 410",
                       "Instructor":"Rishi Raj",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"5",
-                      "Rerollment":"4",
-                      "AvailableSeat":"1"
+                      "Rerollment":"7",
+                      "AvailableSeat":"0"
                     }]                
     },
     { 
@@ -2079,7 +2079,7 @@
       "Unit":"3 units", 
       "Description":"Governing equation and models of fluid flow and heat transfer; basic numerical techniques for solution; estimation of accuracy and stability of the numerical approximations; boundary conditions; grid generation; structure and performance of commercial software for applications in analysis and design of thermo-fluid systems; Final project", 
       "Requirement":"N/A", 
-      "Textbook":"(Status: Required) [ISBN: 9780070016859] Computational Fluid Dynamics The Basics With Appli, Author: John D. Anderson, Publisher: McGraw-Hill, Edition: 1, Year Published: 1995, Price: 104.15 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780070016859] Computational Fluid Dynamics The Basics With Appli, Author: John D. Anderson, Publisher: McGraw-Hill, Edition: 1, Year Published: 1995, Price: 149.51 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14300",
@@ -2090,8 +2090,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"7",
-                      "AvailableSeat":"18"
+                      "Rerollment":"16",
+                      "AvailableSeat":"9"
                     }]                
     },
     { 
@@ -2111,8 +2111,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"5",
-                      "AvailableSeat":"25"
+                      "Rerollment":"13",
+                      "AvailableSeat":"17"
                     }]                
     },
     { 
@@ -2121,19 +2121,19 @@
       "Unit":"3 units", 
       "Description":"Kepler's laws. The central force field. Ballistic trajectories. Minimum energy orbital transfer. Earth orbits and orbital parameters. Hohmann transfer. Two body and many body problems. Consideration of translunar trajectories and deep space problems.", 
       "Requirement":"PRE: ME 24700 OR EQUIVALENT", 
-      "Textbook":"(Status: Required) [ISBN: 9780199837700] Orbital Mechanics, Author: Prussing, John E., Conway, Bru, Publisher: Oxford University Press, Incor, Edition: 2, Year Published: 2012, Price: 85.32 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780199837700] Orbital Mechanics, Author: Prussing, John E., Conway, Bru, Publisher: Oxford University Press, Incor, Edition: 2, Year Published: 2012, Price: 110.55 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14328",
                       "Section":"L-LEC",
                       "Schedule":"TuTh 9:30AM - 10:45AM",
-                      "Room":"NAC 4/207",
+                      "Room":"NAC 6/112",
                       "Instructor":"Peter Ganatos",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"5",
+                      "Capacity":"4",
                       "Rerollment":"4",
-                      "AvailableSeat":"1"
+                      "AvailableSeat":"0"
                     }]                
     },
     { 
@@ -2153,8 +2153,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"3",
-                      "Rerollment":"0",
-                      "AvailableSeat":"3"
+                      "Rerollment":"2",
+                      "AvailableSeat":"1"
                     }]                
     },
     { 
@@ -2174,8 +2174,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"2",
-                      "AvailableSeat":"23"
+                      "Rerollment":"6",
+                      "AvailableSeat":"19"
                     }]                
     },
     { 
@@ -2202,12 +2202,23 @@
                       "Section":"Q2-LEC",
                       "Schedule":"TBA",
                       "Room":"TBA",
-                      "Instructor":"Staff",
-                      "Date":"TBA",
+                      "Instructor":"Jorge Gonzalez-cruz",
+                      "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"35",
+                      "Capacity":"5",
+                      "Rerollment":"3",
+                      "AvailableSeat":"2"
+                    },
+                    { "ClassID":"69433",
+                      "Section":"Q3-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Honghui Yu",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
                       "Rerollment":"1",
-                      "AvailableSeat":"34"
+                      "AvailableSeat":"4"
                     }]                
     },
     { 
@@ -2240,6 +2251,112 @@
                       "Capacity":"5",
                       "Rerollment":"1",
                       "AvailableSeat":"4"
+                    },
+                    { "ClassID":"67575",
+                      "Section":"Q3-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Ali Sadegh",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"35",
+                      "Rerollment":"1",
+                      "AvailableSeat":"34"
+                    },
+                    { "ClassID":"68552",
+                      "Section":"Q4-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Honghui Yu",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"35",
+                      "Rerollment":"2",
+                      "AvailableSeat":"33"
+                    }]                
+    },
+    { 
+      "ClassName":"ME     I9900 - Research for the Master's Thesis",
+      "Career":"Graduate", 
+      "Unit":"6 units", 
+      "Description":"Research for the Master's Thesis", 
+      "Requirement":"N/A", 
+      "Textbook":"N/A", 
+            "ClassIDlist": 
+                     [ 
+                    { "ClassID":"67451",
+                      "Section":"Q-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Masahiro Kawaji",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"2",
+                      "AvailableSeat":"3"
+                    }]                
+    },
+    { 
+      "ClassName":"ME     I9903 - Masters Research",
+      "Career":"Graduate", 
+      "Unit":"3 units", 
+      "Description":"Masters Research", 
+      "Requirement":"N/A", 
+      "Textbook":"N/A", 
+            "ClassIDlist": 
+                     [ 
+                    { "ClassID":"67753",
+                      "Section":"Q-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Yiannis Andreopoulos",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"1",
+                      "AvailableSeat":"4"
+                    }]                
+    },
+    { 
+      "ClassName":"ME     J9907 - Res For The Doct Dis",
+      "Career":"Graduate", 
+      "Unit":"7 units", 
+      "Description":"Res For The Doct Dis", 
+      "Requirement":"N/A", 
+      "Textbook":"N/A", 
+            "ClassIDlist": 
+                     [ 
+                    { "ClassID":"67447",
+                      "Section":"Q-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Jing Fan",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"1",
+                      "AvailableSeat":"4"
+                    }]                
+    },
+    { 
+      "ClassName":"ME     J9909 - Doctoral Diss Resrch",
+      "Career":"Graduate", 
+      "Unit":"9 units", 
+      "Description":"Doctoral Diss Resrch", 
+      "Requirement":"N/A", 
+      "Textbook":"Textbooks to be determined", 
+            "ClassIDlist": 
+                     [ 
+                    { "ClassID":"69153",
+                      "Section":"Q-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Jing Fan",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"1",
+                      "AvailableSeat":"4"
                     }]                
     },
     { 
@@ -2259,8 +2376,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"1",
-                      "AvailableSeat":"29"
+                      "Rerollment":"0",
+                      "AvailableSeat":"30"
                     },
                     { "ClassID":"65413",
                       "Section":"Q1-LEC",
@@ -2336,8 +2453,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"10",
-                      "Rerollment":"0",
-                      "AvailableSeat":"10"
+                      "Rerollment":"2",
+                      "AvailableSeat":"8"
                     },
                     { "ClassID":"65426",
                       "Section":"Q8-LEC",
@@ -2358,8 +2475,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"10",
-                      "Rerollment":"0",
-                      "AvailableSeat":"10"
+                      "Rerollment":"1",
+                      "AvailableSeat":"9"
                     }]                
     },
     { 
@@ -2368,51 +2485,29 @@
       "Unit":"2 units", 
       "Description":"Basic theory of space geometry, with applications in computerized drafting. Students develop skills of spatial analysis, visualization and interpretation through reading existing drawings and freehand sketching. Conventional drafting practices are introduced, including orthographic projections, auxiliary and sectional views, isometric and orthographic projections and basic dimensioning. Computer-aided drafting software is used to produce engineering drawings.", 
       "Requirement":"N/A", 
-      "Textbook":"(Status: Required) [ISBN: 9781585039920] Beginner's Guide to SOLIDWORKS 2016 - Level I, Author: Reyes, Alejandro, Publisher: SDC Publications, Edition: 10, Year Published: 2015, Price: 19.92 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9781585039920] Beginner's Guide to SOLIDWORKS 2016 - Level I, Author: Reyes, Alejandro, Publisher: SDC Publications, Edition: 10, Year Published: 2015, Price: 46.25 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14304",
                       "Section":"3EF-LEC",
                       "Schedule":"We 2:00PM - 4:50PM",
                       "Room":"NAC 6/328",
-                      "Instructor":"Staff",
+                      "Instructor":"Zhexuan Wang",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"29",
-                      "AvailableSeat":"0"
-                    },
-                    { "ClassID":"14329",
-                      "Section":"5AD-LEC",
-                      "Schedule":"Fr 9:00AM - 11:50AM",
-                      "Room":"NAC 7/305",
-                      "Instructor":"Staff",
-                      "Date":"08/27/2018 - 12/21/2018",
-                      "Mode":"In Person",
-                      "Capacity":"0",
-                      "Rerollment":"0",
-                      "AvailableSeat":"0"
-                    },
-                    { "ClassID":"14330",
-                      "Section":"5EF-LEC",
-                      "Schedule":"Fr 2:00PM - 4:50PM",
-                      "Room":"NAC 5/108",
-                      "Instructor":"Staff",
-                      "Date":"08/27/2018 - 12/21/2018",
-                      "Mode":"In Person",
-                      "Capacity":"0",
-                      "Rerollment":"0",
+                      "Rerollment":"30",
                       "AvailableSeat":"0"
                     },
                     { "ClassID":"14331",
                       "Section":"6XX-LEC",
                       "Schedule":"Sa 12:30PM - 3:20PM",
                       "Room":"NAC 6/121",
-                      "Instructor":"Staff",
+                      "Instructor":"Zhexuan Wang",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"27",
+                      "Rerollment":"30",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -2433,8 +2528,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"50",
-                      "Rerollment":"44",
-                      "AvailableSeat":"6"
+                      "Rerollment":"50",
+                      "AvailableSeat":"0"
                     },
                     { "ClassID":"14332",
                       "Section":"C2-LEC",
@@ -2444,8 +2539,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"50",
-                      "Rerollment":"45",
-                      "AvailableSeat":"5"
+                      "Rerollment":"49",
+                      "AvailableSeat":"1"
                     }]                
     },
     { 
@@ -2465,14 +2560,14 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"40",
-                      "Rerollment":"31",
-                      "AvailableSeat":"9"
+                      "Rerollment":"37",
+                      "AvailableSeat":"3"
                     },
                     { "ClassID":"14333",
                       "Section":"B2-LEC",
                       "Schedule":"MoWe 9:30AM - 10:45AM",
                       "Room":"Shepard 22",
-                      "Instructor":"Staff",
+                      "Instructor":"Shahabedin Mansoorbaghaei",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
@@ -2492,7 +2587,7 @@
                     { "ClassID":"14307",
                       "Section":"1EF-LEC",
                       "Schedule":"MoWe 10:00AM - 10:50AM & Mo 2:00PM - 4:50PM",
-                      "Room":"Steinman 226 & Steinman 226",
+                      "Room":"Baskervill 106 & Steinman 226",
                       "Instructor":"Ioana Voiculescu & Ioana Voiculescu",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
@@ -2503,24 +2598,24 @@
                     { "ClassID":"14334",
                       "Section":"1GH-LEC",
                       "Schedule":"MoWe 10:00AM - 10:50AM & Mo 5:00PM - 7:50PM",
-                      "Room":"Steinman B64 & Steinman 226",
-                      "Instructor":"Staff & Staff",
+                      "Room":"Baskervill 106 & Steinman 226",
+                      "Instructor":"Ioana Voiculescu & Ioana Voiculescu",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"25",
-                      "AvailableSeat":"0"
+                      "Rerollment":"24",
+                      "AvailableSeat":"1"
                     },
                     { "ClassID":"14335",
                       "Section":"3GH-LEC",
                       "Schedule":"MoWe 10:00AM - 10:50AM & We 5:00PM - 7:50PM",
-                      "Room":"Steinman B64 & Steinman 226",
-                      "Instructor":"Staff & Staff",
+                      "Room":"Baskervill 106 & Steinman 226",
+                      "Instructor":"Ioana Voiculescu & Ioana Voiculescu",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"25",
-                      "AvailableSeat":"0"
+                      "Rerollment":"24",
+                      "AvailableSeat":"1"
                     }]                
     },
     { 
@@ -2543,48 +2638,26 @@
                       "Rerollment":"25",
                       "AvailableSeat":"0"
                     },
-                    { "ClassID":"14336",
-                      "Section":"3EF-LEC",
-                      "Schedule":"MoWe 12:30PM - 1:20PM & We 2:00PM - 4:50PM",
-                      "Room":"Baskervill 106 & Steinman 207",
-                      "Instructor":"Staff & Staff",
-                      "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
-                      "Mode":"In Person",
-                      "Capacity":"0",
-                      "Rerollment":"0",
-                      "AvailableSeat":"0"
-                    },
                     { "ClassID":"14337",
                       "Section":"4PR-LEC",
                       "Schedule":"TuTh 11:00AM - 11:50AM & Th 2:00PM - 4:50PM",
                       "Room":"Baskervill 106 & Steinman 226",
-                      "Instructor":"Peter Ganatos & Staff",
+                      "Instructor":"Peter Ganatos & Dimitrios Fafalis",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"25",
-                      "AvailableSeat":"0"
+                      "Rerollment":"24",
+                      "AvailableSeat":"1"
                     },
                     { "ClassID":"14338",
                       "Section":"5AD-LEC",
                       "Schedule":"TuTh 11:00AM - 11:50AM & Fr 9:00AM - 11:50AM",
                       "Room":"Baskervill 106 & Steinman 226",
-                      "Instructor":"Peter Ganatos & Staff",
+                      "Instructor":"Peter Ganatos & Dimitrios Fafalis",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
                       "Rerollment":"25",
-                      "AvailableSeat":"0"
-                    },
-                    { "ClassID":"14339",
-                      "Section":"5EF-LEC",
-                      "Schedule":"MoWe 12:30PM - 1:45PM & Fr 2:00PM - 4:50PM",
-                      "Room":"Baskervill 106 & Steinman 207",
-                      "Instructor":"Staff & Staff",
-                      "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
-                      "Mode":"In Person",
-                      "Capacity":"0",
-                      "Rerollment":"0",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -2594,7 +2667,7 @@
       "Unit":"3 units", 
       "Description":"Engineering analysis of deformable elastic and inelastic bodies subject to axial, torsional, flexural and shearing loads. Analysis of stress and strain. Stress/strain relations, strain energy and failure theories. Deformations and deflections due to mechanical and thermal loads. Statically determinate and indeterminate systems. Pressure vessels, combined loading, principal stresses, thermal stresses, joints and fittings. Stability, buckling and critical loads.", 
       "Requirement":"PRE: MATH 20300 (MIN C) AND ME 24600 (MIN C)", 
-      "Textbook":"(Status: Required) [ISBN: 9780073398235] Mechanics of Materials, Author: Beer Ferdinand, Publisher: McGraw-Hill, Edition: 7, Year Published: 2016, Price: 40.62 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780073398235] Mechanics of Materials, Author: Beer Ferdinand, Publisher: McGraw-Hill, Edition: 7, Year Published: 2016, Price: 38.04 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14309",
@@ -2616,8 +2689,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"45",
-                      "Rerollment":"41",
-                      "AvailableSeat":"4"
+                      "Rerollment":"45",
+                      "AvailableSeat":"0"
                     }]                
     },
     { 
@@ -2636,20 +2709,20 @@
                       "Instructor":"Jing Fan",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"50",
-                      "Rerollment":"44",
-                      "AvailableSeat":"6"
+                      "Capacity":"52",
+                      "Rerollment":"52",
+                      "AvailableSeat":"0"
                     },
                     { "ClassID":"14342",
                       "Section":"D2-LEC",
-                      "Schedule":"MoWe 12:30PM - 1:30PM",
+                      "Schedule":"MoWe 12:30PM - 1:45PM",
                       "Room":"Shepard S-205",
-                      "Instructor":"Staff",
+                      "Instructor":"Zhexuan Wang",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"50",
-                      "Rerollment":"47",
-                      "AvailableSeat":"3"
+                      "Capacity":"52",
+                      "Rerollment":"53",
+                      "AvailableSeat":"0"
                     }]                
     },
     { 
@@ -2680,14 +2753,14 @@
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
-                      "Rerollment":"25",
-                      "AvailableSeat":"0"
+                      "Rerollment":"24",
+                      "AvailableSeat":"1"
                     },
                     { "ClassID":"14345",
                       "Section":"3GH-LEC",
                       "Schedule":"Mo 9:00AM - 10:50AM & We 5:00PM - 7:50PM",
                       "Room":"Steinman 2M5 & Steinman 213",
-                      "Instructor":"Gary Benenson & Staff",
+                      "Instructor":"Gary Benenson & Reza Pourmodheji",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"25",
@@ -2701,14 +2774,14 @@
       "Unit":"4 units", 
       "Description":"Model development with applications to mechanical engineering systems. First and higher order system reponses. Laplace transform, transfer functions and block diagrams.  Frequency response and vibration.  Routh-Hurwitz stability, and graphical methods such as root locus and Bode plot.  Introduction to feedback control. Concepts of PID control, tuning and compensation.", 
       "Requirement":"PRE: ME 31100, ME 33000 AND CO: ME 35600", 
-      "Textbook":"(Status: Required) [ISBN: 9780131424623] System Dynamics, Author: Katsuhiko Ogata, Publisher: Pearson, Edition: 4, Year Published: 2003, Price: 138.53 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780131424623] System Dynamics, Author: Katsuhiko Ogata, Publisher: Pearson, Edition: 4, Year Published: 2003, Price: 125.58 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14312",
                       "Section":"3EF-LEC",
                       "Schedule":"MoWe 11:00AM - 12:15PM & We 2:00PM - 4:50PM",
-                      "Room":"NAC 4/115 & NAC 5/111",
-                      "Instructor":"Hao Su & Hao Su",
+                      "Room":"Steinman 2M5 & Steinman 207",
+                      "Instructor":"Reza Pourmodheji & Reza Pourmodheji",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"50",
@@ -2718,13 +2791,13 @@
                     { "ClassID":"14346",
                       "Section":"5EF-LEC",
                       "Schedule":"MoWe 11:00AM - 12:15PM & Fr 2:00PM - 4:50PM",
-                      "Room":"Steinman B64 & Marshak 1307",
-                      "Instructor":"Staff & Staff",
+                      "Room":"Steinman 2M5 & Steinman 207",
+                      "Instructor":"Reza Pourmodheji & Reza Pourmodheji",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"35",
-                      "Rerollment":"30",
-                      "AvailableSeat":"5"
+                      "Rerollment":"31",
+                      "AvailableSeat":"4"
                     }]                
     },
     { 
@@ -2751,12 +2824,12 @@
                       "Section":"DD2-LEC",
                       "Schedule":"MoWe 12:30PM - 1:45PM & Fr 12:30PM - 1:20PM",
                       "Room":"Steinman 207 & Steinman 207",
-                      "Instructor":"Staff & Staff",
+                      "Instructor":"Huseyin Cekirge & Staff",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"40",
-                      "Rerollment":"40",
-                      "AvailableSeat":"0"
+                      "Rerollment":"39",
+                      "AvailableSeat":"1"
                     }]                
     },
     { 
@@ -2787,8 +2860,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"45",
-                      "Rerollment":"41",
-                      "AvailableSeat":"4"
+                      "Rerollment":"42",
+                      "AvailableSeat":"3"
                     }]                
     },
     { 
@@ -2804,7 +2877,7 @@
                       "Section":"4ST-LEC",
                       "Schedule":"Th 5:00PM - 7:50PM",
                       "Room":"Steinman 226",
-                      "Instructor":"Staff",
+                      "Instructor":"Joshua Hrisko",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"20",
@@ -2846,7 +2919,7 @@
                     { "ClassID":"14357",
                       "Section":"2PS-LEC",
                       "Schedule":"TuTh 2:00PM - 3:50PM & Tu 4:00PM - 5:50PM",
-                      "Room":"Steinman B64 & Steinman B64",
+                      "Room":"Steinman 2M5 & Steinman B64",
                       "Instructor":"Benjamin Liaw & Benjamin Liaw",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
@@ -2857,7 +2930,7 @@
                     { "ClassID":"14358",
                       "Section":"4PS-LEC",
                       "Schedule":"TuTh 2:00PM - 3:50PM & Th 4:00PM - 5:50PM",
-                      "Room":"Steinman B64 & Steinman B64",
+                      "Room":"Steinman 2M5 & Steinman B64",
                       "Instructor":"Benjamin Liaw & Benjamin Liaw",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
@@ -2868,18 +2941,18 @@
                     { "ClassID":"14359",
                       "Section":"5CD-LEC",
                       "Schedule":"TuTh 2:00PM - 3:50PM & Fr 12:00PM - 1:50PM",
-                      "Room":"Steinman B64 & Steinman B64",
+                      "Room":"Steinman 2M5 & Steinman B64",
                       "Instructor":"Benjamin Liaw & Benjamin Liaw",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"20",
-                      "Rerollment":"15",
-                      "AvailableSeat":"5"
+                      "Rerollment":"16",
+                      "AvailableSeat":"4"
                     },
                     { "ClassID":"14317",
                       "Section":"PR-LEC",
                       "Schedule":"TuTh 2:00PM - 3:50PM & Fr 2:00PM - 3:50PM",
-                      "Room":"Steinman B64 & Steinman B64",
+                      "Room":"Steinman 2M5 & Steinman B64",
                       "Instructor":"Benjamin Liaw & Benjamin Liaw",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
@@ -2894,36 +2967,36 @@
       "Unit":"3 units", 
       "Description":"Relationship between product design and manufacturing. Influence of material properties. Capabilities and limitations of common methods of processing metallic and nonmetallic materials (casting, hot and cold working, joining, traditional and non-traditional machining). Introduction to computer-aided manufacturing, robotics and computer numerical control.", 
       "Requirement":"PRE: ME 14500 AND ME 46100", 
-      "Textbook":"(Status: Required) [ISBN: 9781857283389] Fundamentals of Manufacturing for Engineers, Author: T.F. Waters, Publisher: CRC Pr I Llc, Year Published: 1996, Price: 24.53 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9781857283389] Fundamentals of Manufacturing for Engineers, Author: T.F. Waters, Publisher: CRC Pr I Llc, Year Published: 1996, Price: 55.29 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14318",
                       "Section":"1EF-LEC",
                       "Schedule":"We 9:00AM - 10:50AM & Mo 2:00PM - 4:50PM",
                       "Room":"Steinman 207 & Steinman B38",
-                      "Instructor":"Staff & Staff",
+                      "Instructor":"Mohammad Maneshi-pour & Siavash Hashemi",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"15",
-                      "Rerollment":"18",
+                      "Rerollment":"19",
                       "AvailableSeat":"0"
                     },
                     { "ClassID":"63218",
                       "Section":"2ST-LEC",
                       "Schedule":"Tu 5:00PM - 7:50PM & Fr 9:00AM - 10:50AM",
-                      "Room":"Steinman B38 & TBA",
-                      "Instructor":"Staff & Staff",
+                      "Room":"Steinman B38 & NAC 6/106",
+                      "Instructor":"Zhiming Hu & Mohammad Maneshi-pour",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"15",
-                      "Rerollment":"16",
+                      "Rerollment":"17",
                       "AvailableSeat":"0"
                     },
                     { "ClassID":"14360",
                       "Section":"3EF-LEC",
                       "Schedule":"We 9:00AM - 10:50AM & We 2:00PM - 4:50PM",
                       "Room":"Steinman 207 & Steinman B38",
-                      "Instructor":"Staff & Staff",
+                      "Instructor":"Mohammad Maneshi-pour & Siavash Hashemi",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"15",
@@ -2933,19 +3006,19 @@
                     { "ClassID":"64343",
                       "Section":"3GH-LEC",
                       "Schedule":"Fr 9:00AM - 10:50AM & We 5:00PM - 7:50PM",
-                      "Room":"TBA & Steinman B38",
-                      "Instructor":"Staff & Staff",
+                      "Room":"NAC 6/106 & Steinman B38",
+                      "Instructor":"Mohammad Maneshi-pour & Zhiming Hu",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"0",
-                      "Rerollment":"15",
+                      "Rerollment":"18",
                       "AvailableSeat":"0"
                     },
                     { "ClassID":"14361",
                       "Section":"5AD-LEC",
                       "Schedule":"We 9:00AM - 10:50AM & Fr 9:00AM - 11:50AM",
                       "Room":"Steinman 207 & Steinman B38",
-                      "Instructor":"Staff & Staff",
+                      "Instructor":"Mohammad Maneshi-pour & Siavash Hashemi",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"15",
@@ -2959,7 +3032,7 @@
       "Unit":"3 units", 
       "Description":"Design and analysis of cycles, components, and systems used in power generation and related industries. Power plant cycles and flow diagrams. Heat balance calculations. Turbines, steam generators. Economics of energy systems, capacity analysis, load curve analysis, scheduling. Use of computerized steam and gas tables and power plant simulation. Design projects on power plant cycles and associated equipment.", 
       "Requirement":"PRE: ME 43000 AND CO: ME 43300", 
-      "Textbook":"(Status: Required) [ISBN: 9780471888475] Power Plant System Design, Author: Kam W. Li, Publisher: John Wiley & Sons Inc, Edition: 1, Year Published: 1985, Price: 34.10 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780471888475] Power Plant System Design, Author: Kam W. Li, Publisher: John Wiley & Sons Inc, Edition: 1, Year Published: 1985, Price: 74.81 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14319",
@@ -2981,7 +3054,7 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"0",
-                      "Rerollment":"35",
+                      "Rerollment":"36",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -2997,23 +3070,12 @@
                     { "ClassID":"14320",
                       "Section":"KL-LEC",
                       "Schedule":"TuTh 9:00AM - 10:50AM",
-                      "Room":"NAC 5/111",
+                      "Room":"Baskervill 106",
                       "Instructor":"Charusheel Bapat",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"65",
-                      "Rerollment":"59",
-                      "AvailableSeat":"6"
-                    },
-                    { "ClassID":"14362",
-                      "Section":"KL2-LEC",
-                      "Schedule":"TuTh 9:00AM - 10:50AM",
-                      "Room":"Marshak 1026",
-                      "Instructor":"Staff",
-                      "Date":"08/27/2018 - 12/21/2018",
-                      "Mode":"In Person",
-                      "Capacity":"0",
-                      "Rerollment":"0",
+                      "Rerollment":"65",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -3034,7 +3096,7 @@
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"32",
+                      "Rerollment":"35",
                       "AvailableSeat":"0"
                     },
                     { "ClassID":"14363",
@@ -3045,18 +3107,18 @@
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"33",
+                      "Rerollment":"34",
                       "AvailableSeat":"0"
                     },
                     { "ClassID":"64733",
                       "Section":"2ST-LEC",
                       "Schedule":"Mo 6:30PM - 8:20PM & Tu 5:00PM - 7:50PM",
-                      "Room":"NAC 6/115 & NAC 7/306",
+                      "Room":"NAC 6/115 & NAC 6/106",
                       "Instructor":"Peyman Honarmandi & Peyman Honarmandi",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"0",
-                      "Rerollment":"33",
+                      "Rerollment":"34",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -3072,7 +3134,7 @@
                     { "ClassID":"14364",
                       "Section":"1GH-LEC",
                       "Schedule":"Mo 5:00PM - 7:50PM & Th 3:00PM - 4:50PM",
-                      "Room":"NAC 4/148 & NAC 6/313",
+                      "Room":"NAC 4/148 & NAC 6/115",
                       "Instructor":"Parisa Saboori & Richard La Grotta",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
@@ -3083,13 +3145,13 @@
                     { "ClassID":"14322",
                       "Section":"2PR-LEC",
                       "Schedule":"Tu 2:00PM - 4:50PM & Th 3:00PM - 4:50PM",
-                      "Room":"NAC 6/115 & NAC 4/210",
+                      "Room":"NAC 6/115 & NAC 6/115",
                       "Instructor":"Richard La Grotta & Richard La Grotta",
                       "Date":"08/27/2018 - 12/21/2018 & 08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"31",
-                      "Rerollment":"31",
-                      "AvailableSeat":"0"
+                      "Rerollment":"30",
+                      "AvailableSeat":"1"
                     }]                
     },
     { 
@@ -3098,17 +3160,17 @@
       "Unit":"3 units", 
       "Description":"The two-body problem. Lagrangian dynamics. Hamiltonian equations. Perturbations. Satellite orbits and ballistic trajectories. Effects of drag on satellite orbits. The general three-body problem. Coordinate systems and coordinate transformations. Computational methods. Design project.", 
       "Requirement":"PRE: ME 24700", 
-      "Textbook":"(Status: Required) [ISBN: 9780199837700] Orbital Mechanics, Author: Prussing, John E., Conway, Bru, Publisher: Oxford University Press, Incor, Edition: 2, Year Published: 2012, Price: 85.32 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780199837700] Orbital Mechanics, Author: Prussing, John E., Conway, Bru, Publisher: Oxford University Press, Incor, Edition: 2, Year Published: 2012, Price: 110.55 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14323",
                       "Section":"L-LEC",
                       "Schedule":"TuTh 9:30AM - 10:45AM",
-                      "Room":"Shepard S-201",
+                      "Room":"NAC 6/112",
                       "Instructor":"Peter Ganatos",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"30",
+                      "Capacity":"0",
                       "Rerollment":"30",
                       "AvailableSeat":"0"
                     }]                
@@ -3119,18 +3181,18 @@
       "Unit":"3 units", 
       "Description":"Modern static and dynamic conversion devices. Applications include thermoelectrics, magneto- hydrodynamics, electro-hydrodynamics, fuel cells, reciprocating and rotary energy converters. Current and future energy resources and factors affecting the rate of energy consumption. Comparison of alternative energy conversion systems, including limitations and efficiency of each, and the comparative effects on the environment.", 
       "Requirement":"PRE: ENGR 23000 AND ME 35600", 
-      "Textbook":"(Status: Required) [ISBN: 9780199765133] Energy and the Environment : Scientific and Techno, Author: Fay, James, Golomb, Daniel, Publisher: Oxford University Press, Incor, Edition: 2, Year Published: 2011, Price: 75.04 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780199765133] Energy and the Environment : Scientific and Techno, Author: Fay, James, Golomb, Daniel, Publisher: Oxford University Press, Incor, Edition: 2, Year Published: 2011, Price: 176.62 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14324",
                       "Section":"B-LEC",
                       "Schedule":"MoWe 9:30AM - 10:45AM",
-                      "Room":"TBA",
-                      "Instructor":"Staff",
+                      "Room":"NAC 4/209",
+                      "Instructor":"Huseyin Cekirge",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"31",
+                      "Rerollment":"34",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -3140,13 +3202,13 @@
       "Unit":"3 units", 
       "Description":"Aerodynamic and thermodynamic fundamentals applicable to turbomachinery. Analysis of gas and steam cycles. Advanced cycles. Configurations and types of turbomachinery. Turbine, compressor and ancillary equipment kinematics. Selection and operational problems. Design projects relating to gas turbines.", 
       "Requirement":"PRE: ME 35600 AND ME 43000", 
-      "Textbook":"(Status: Required) [ISBN: 9780124159549] Fluid Mechanics and Thermodynamics of Turbomachine, Author: Dixon, S. Larry, Hall, Cesare, Publisher: Elsevier Science & Technology, Edition: 7, Year Published: 2013, Price: 48.78 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780124159549] Fluid Mechanics and Thermodynamics of Turbomachine, Author: Dixon, S. Larry, Hall, Cesare, Publisher: Elsevier Science & Technology, Edition: 7, Year Published: 2013, Price: 32.76 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14325",
                       "Section":"1GH-LEC",
                       "Schedule":"Mo 5:00PM - 7:50PM",
-                      "Room":"Marshak 506",
+                      "Room":"Marshak 410",
                       "Instructor":"Rishi Raj",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
@@ -3171,9 +3233,9 @@
                       "Instructor":"Benjamin Liaw",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"30",
-                      "Rerollment":"32",
-                      "AvailableSeat":"0"
+                      "Capacity":"40",
+                      "Rerollment":"39",
+                      "AvailableSeat":"1"
                     }]                
     },
     { 
@@ -3193,7 +3255,7 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"33",
+                      "Rerollment":"31",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -3203,7 +3265,7 @@
       "Unit":"3 units", 
       "Description":"Airfoil theories. Finite wings. Swept wings. Compressible flow, normal and oblique shock waves. Wings in compressible flow. Airfoil design. Wind tunnels.", 
       "Requirement":"PRE: ENGR 23000 AND ME 35600", 
-      "Textbook":"(Status: Required) [ISBN: 9780073398105] Fundamentals of Aerodynamics, Author: John D. Anderson, Publisher: McGraw-Hill, Edition: 5, Year Published: 2010, Price: 92.31 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9780073398105] Fundamentals of Aerodynamics, Author: John D. Anderson, Publisher: McGraw-Hill, Edition: 5, Year Published: 2010, Price: 57.91 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"14327",
@@ -3214,7 +3276,7 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"30",
-                      "Rerollment":"30",
+                      "Rerollment":"31",
                       "AvailableSeat":"0"
                     }]                
     },
@@ -3232,6 +3294,17 @@
                       "Schedule":"TBA",
                       "Room":"TBA",
                       "Instructor":"Yiannis Andreopoulos",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"1",
+                      "AvailableSeat":"4"
+                    },
+                    { "ClassID":"67752",
+                      "Section":"Q1-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Feridun Delale",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"5",
@@ -3255,9 +3328,9 @@
                       "Instructor":"Gary Benenson",
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
-                      "Capacity":"10",
-                      "Rerollment":"5",
-                      "AvailableSeat":"5"
+                      "Capacity":"12",
+                      "Rerollment":"10",
+                      "AvailableSeat":"2"
                     },
                     { "ClassID":"63264",
                       "Section":"Q2-LEC",
@@ -3267,8 +3340,8 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"8",
-                      "Rerollment":"5",
-                      "AvailableSeat":"3"
+                      "Rerollment":"6",
+                      "AvailableSeat":"2"
                     },
                     { "ClassID":"63440",
                       "Section":"Q3-LEC",
@@ -3300,8 +3373,62 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"5",
+                      "Rerollment":"3",
+                      "AvailableSeat":"2"
+                    },
+                    { "ClassID":"68711",
+                      "Section":"Q6-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Jing Fan",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"2",
+                      "AvailableSeat":"3"
+                    },
+                    { "ClassID":"69206",
+                      "Section":"Q7-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Hao Su",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
                       "Rerollment":"1",
                       "AvailableSeat":"4"
+                    },
+                    { "ClassID":"69208",
+                      "Section":"Q8-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Staff",
+                      "Date":"TBA",
+                      "Mode":"In Person",
+                      "Capacity":"35",
+                      "Rerollment":"0",
+                      "AvailableSeat":"35"
+                    }]                
+    },
+    { 
+      "ClassName":"ME 59903 - Special Topics in Mechanical Engineering",
+      "Career":"Undergraduate", 
+      "Unit":"3 units", 
+      "Description":"Topics chosen for their particular or current interest to undergraduate students.", 
+      "Requirement":"N/A", 
+      "Textbook":"Textbooks to be determined", 
+            "ClassIDlist": 
+                     [ 
+                    { "ClassID":"68717",
+                      "Section":"Q-LEC",
+                      "Schedule":"TBA",
+                      "Room":"TBA",
+                      "Instructor":"Ali Sadegh",
+                      "Date":"08/27/2018 - 12/21/2018",
+                      "Mode":"In Person",
+                      "Capacity":"5",
+                      "Rerollment":"2",
+                      "AvailableSeat":"3"
                     }]                
     },
     { 
@@ -3310,7 +3437,7 @@
       "Unit":"3 units", 
       "Description":"Project-based course on the design of mechatronic devices to address needs identified by hospital-based clinicians and industry. Students work in teams to develop a mechatronic prototype. The lectures will cover the design of medical devices and robotics including sensors, actuators, and robots. The students will communicate with customers to understand design needs, then conduct study on prior art, intellectual property, due diligence, and idea conceptualization. Students will present ideas in class and to a broad audience from local industry. Students will also write a publication-quality final report, which they will be encouraged for publication submission.", 
       "Requirement":"PRE: ME 31100, ME 37100 AND ME 41100", 
-      "Textbook":"(Status: Required) [ISBN: 9781107087354] Biodesign : The Process of Innovating Medical Tech, Author: Yock, Paul G., Zenios, Stefano, Publisher: Cambridge University Press, Edition: 2, Year Published: 2015, Price: 37.50 USD, Notes: As Low as the displayed price", 
+      "Textbook":"(Status: Required) [ISBN: 9781107087354] Biodesign : The Process of Innovating Medical Tech, Author: Yock, Paul G., Zenios, Stefano, Publisher: Cambridge University Press, Edition: 2, Year Published: 2015, Price: 56.47 USD, Notes: As Low as the displayed price", 
             "ClassIDlist": 
                      [ 
                     { "ClassID":"66127",
@@ -3321,7 +3448,7 @@
                       "Date":"08/27/2018 - 12/21/2018",
                       "Mode":"In Person",
                       "Capacity":"8",
-                      "Rerollment":"12",
+                      "Rerollment":"13",
                       "AvailableSeat":"0"
                     }]                
     }]
