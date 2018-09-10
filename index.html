@@ -6,9 +6,12 @@
 
 <title>Classes Search Form</title>
 <head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="style.css">
-
 <script src="script.js"></script>
+
+    <script src="http://cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src='http://unpkg.com/valine/dist/Valine.min.js'></script>
 </head>
 
 <body>
@@ -22,9 +25,88 @@ Semester: <input type="checkbox" id="semester1" name="Fall 2018" checked>Fall 20
     <input type="checkbox" id="semester3" name="Spring 2018" checked>Spring 2018 <br>
 Degree: <input type="checkbox" id="career1" name="Undergraduate" checked>Undergraduate
     <input type="checkbox" id="career2" name="Graduate">Graduate<br>
+Elective: <input type="checkbox" id="designElective" name="designElective">Design Elective
+    <input type="checkbox" id="meElective" name="meElective">ME Elective<br>
   <input type="submit" id="searchBox" value="Submit" onclick="startSearch()"><br>
-    <p style="color: red">Database Date: August 25, 2018</p>
+    <p style="color: red">Note: Design Electives can count as ME Elective</p>
+    <p style="color: darkblue">Database Date: August 25, 2018</p>
+    <p><a  style="color: white; background-color: #8e44ad" href="http://forcefree.tk/" target="_blank">For Mechanical Engineering Curriculum (Fall 2015 - Spring 2016), check my another site :D</a></p>
 </div>
+	
+	
+<div id="btnComments" style="cursor: pointer; background-color: #2d3436; color: white; text-align: center; border-radius: 5px; border: 1px solid gray; width: 30%" onclick="displayComment()">Suggestions? Click here to open!</div>
+    <div style="display: none" id="vcomments"></div>
+    <script>
+        new Valine({
+            el: '#vcomments',
+            appId: 'ThH6yPmOxWeqc6f9yu7Vwq1B-gzGzoHsz',
+            appKey: 'gK68zW84Ud23pQgJ0Upf7dOc',
+			  notify: false,
+			  verify: true,
+			  placeholder: ':D',
+			  guest_info: ['nick'],
+//			  guest_info: ['nick','mail','link'],
+			  pageSize: 10,
+			  lang: 'en'
+        })
+    </script>
+	<script>
+	function displayComment() {
+    var x = document.getElementById("vcomments");
+    var y = document.getElementById("btnComments");
+    if (x.style.display === "none") {
+        x.style.display = "";
+		y.textContent = "Click here to hide the comments"
+    } else {
+        x.style.display = "none";
+		y.textContent = "Suggestions? Click here to open!"
+    }
+}
+	</script>
+<!--
+<div class="classContainer">
+  
+  <div>1</div>
+  <div>1</div>
+  <div>1</div>
+    
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <div>1</div>
+  <li>4</li>
+  <div>1</div>
+  <li>5</li>
+</div>
+-->
+
+<!--
+<div class="sectionContainer">
+  <div>1</div>
+  <div>1</div>
+  <div>1</div>
+  <div>1</div>
+  <div>1</div>
+  <div>6</div>
+  <div>7</div>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+    
+  <div>1</div>
+  <div>1</div>
+  <div>1</div>
+  <li>8</li>
+  <li>9</li>
+  <li>10</li>
+</div>
+-->
+    
+
 
 </body>
 </html>

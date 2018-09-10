@@ -1,3 +1,7 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .classContainer, .sectionContainer {
   display: flex;
   flex-wrap: wrap;
@@ -19,7 +23,7 @@
     
 .classContainer li, .sectionContainer li,
  .classContainer div, .sectionContainer div,
-#UIBox, #UIBox input, #UIBox select {
+#UIBox, #UIBox input, #UIBox select, #btnComments {
 /*font-size: medium;*/
 font-size: calc((0.6vmin) + (1vmax));
   list-style-type: none;
@@ -186,4 +190,19 @@ border-bottom: 1px solid rgb(123,151,192);
 /*  background-color: gold;*/
     border-left: 1px solid rgb(123,151,192);
   width: calc(30% - 1px);
+}
+
+.electiveTag {
+background-color: #e74c3c;
+color: white;
+border: 1px solid #d6d6d6;
+padding: 2px 4px;
+border-radius: 3px;
+font-size: calc((0.6vmin) + (1vmax));
+font-family: 'Roboto', sans-serif;
+margin-left: calc((0.4vmin) + (0.4vmax));
+}
+
+.meElective {
+background-color: #e67e22;
 }
